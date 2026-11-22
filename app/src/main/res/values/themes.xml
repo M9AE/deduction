@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Deduction" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F4F6FA</item>
+        <item name="android:navigationBarColor">#F4F6FA</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <color name="bg">#F4F6FA</color>
+    <color name="brand">#2F67D8</color>
+</resources>

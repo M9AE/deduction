@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icône : une grille 3x3 blanche avec une case pleine -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="3"
+        android:pathData="M33,33 L75,33 L75,75 L33,75 Z" />
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="1.5"
+        android:pathData="M47,33 L47,75 M61,33 L61,75 M33,47 L75,47 M33,61 L75,61" />
+    <path android:fillColor="#FFFFFF" android:pathData="M47,47 L61,47 L61,61 L47,61 Z" />
+    <path android:fillColor="#9FC0FF" android:pathData="M61.75,33.75 L74.25,33.75 L74.25,46.25 L61.75,46.25 Z" />
+</vector>
